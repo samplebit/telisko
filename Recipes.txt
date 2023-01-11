@@ -3,4 +3,7 @@ welcome to telusko kitchen
 
 khree
 pasta
-chikken 
+chikken
+
+beans
+pizza
